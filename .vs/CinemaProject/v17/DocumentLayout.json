@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\controller\\staffdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\controller\\staffdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\controller\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\controller\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|c:\\users\\admin\\pictures\\cinemaproject\\cinemaproject\\cinemaproject\\view\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\fguesthomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\fguesthomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|c:\\users\\admin\\pictures\\cinemaproject\\cinemaproject\\cinemaproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\fmoviedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\fmoviedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\fguesthomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\fguesthomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\fsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -39,40 +59,24 @@
       "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\uc_addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|c:\\users\\admin\\pictures\\cinemaproject\\cinemaproject\\cinemaproject\\view\\fsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\fsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\fsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|c:\\users\\admin\\pictures\\cinemaproject\\cinemaproject\\cinemaproject\\controller\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\controller\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|c:\\users\\admin\\pictures\\cinemaproject\\cinemaproject\\cinemaproject\\model\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\model\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\model\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|c:\\users\\admin\\pictures\\cinemaproject\\cinemaproject\\cinemaproject\\view\\uc_addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\uc_addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\uc_addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\fadminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\fadminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\controller\\staffdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\controller\\staffdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,11 +87,11 @@
       "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\controller\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|c:\\users\\admin\\pictures\\cinemaproject\\cinemaproject\\cinemaproject\\view\\fadminhomepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\fadminhomepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\fadminhomepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|c:\\users\\admin\\pictures\\cinemaproject\\cinemaproject\\cinemaproject\\view\\fadminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\cinemaproject\\view\\fadminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7662D60-5AC9-4220-89D2-3A5E6B8A869F}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\view\\fadminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -126,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 334,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,7 +138,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CinemaProject\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CinemaProject\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:57:23.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fLogin.cs",
+              "RelativeDocumentMoniker": "CinemaProject\\View\\fLogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fLogin.cs [Design]",
+              "RelativeToolTip": "CinemaProject\\View\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:32:33.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "fSignUp.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fSignUp.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fSignUp.cs",
@@ -142,12 +171,11 @@
               "RelativeToolTip": "CinemaProject\\View\\fSignUp.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAswC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:37:28.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T17:37:28.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "uc_addStaff.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_addStaff.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\uc_addStaff.cs",
@@ -155,25 +183,24 @@
               "RelativeToolTip": "CinemaProject\\View\\uc_addStaff.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwDMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:37:18.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T17:37:18.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "UserDAO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Controller\\UserDAO.cs",
               "RelativeDocumentMoniker": "CinemaProject\\Controller\\UserDAO.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Controller\\UserDAO.cs",
               "RelativeToolTip": "CinemaProject\\Controller\\UserDAO.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAwwEYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwEYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T17:35:00.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Staff.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Model\\Staff.cs",
               "RelativeDocumentMoniker": "CinemaProject\\Model\\Staff.cs",
@@ -181,12 +208,11 @@
               "RelativeToolTip": "CinemaProject\\Model\\Staff.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:13:13.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T17:13:13.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "fAdminHomePage.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fAdminHomePage.Designer.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fAdminHomePage.Designer.cs",
@@ -194,8 +220,7 @@
               "RelativeToolTip": "CinemaProject\\View\\fAdminHomePage.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:33:06.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:33:06.385Z"
             },
             {
               "$type": "Bookmark",
@@ -203,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "fMovieDetail.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fMovieDetail.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fMovieDetail.cs",
@@ -216,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "uc_editMovie.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_editMovie.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\uc_editMovie.cs",
@@ -224,36 +249,33 @@
               "RelativeToolTip": "CinemaProject\\View\\uc_editMovie.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAowF4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:32:33.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "uc_product.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_product.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\uc_product.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_product.cs [Design]",
               "RelativeToolTip": "CinemaProject\\View\\uc_product.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.408Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-08T16:32:33.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "fAdminHomePage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fAdminHomePage.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fAdminHomePage.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fAdminHomePage.cs [Design]",
               "RelativeToolTip": "CinemaProject\\View\\fAdminHomePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.41Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-08T16:32:33.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "fAdminHomePage.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fAdminHomePage.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fAdminHomePage.cs",
@@ -261,36 +283,22 @@
               "RelativeToolTip": "CinemaProject\\View\\fAdminHomePage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:32:33.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "fLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fLogin.cs",
-              "RelativeDocumentMoniker": "CinemaProject\\View\\fLogin.cs",
-              "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fLogin.cs [Design]",
-              "RelativeToolTip": "CinemaProject\\View\\fLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.626Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "fGuestHomePage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fGuestHomePage.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fGuestHomePage.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fGuestHomePage.cs [Design]",
               "RelativeToolTip": "CinemaProject\\View\\fGuestHomePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.627Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-08T16:32:33.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "fMovieDetail.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fMovieDetail.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fMovieDetail.cs",
@@ -302,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Program.cs",
               "RelativeDocumentMoniker": "CinemaProject\\Program.cs",
@@ -310,12 +318,11 @@
               "RelativeToolTip": "CinemaProject\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:32:33.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Model\\Movie.cs",
               "RelativeDocumentMoniker": "CinemaProject\\Model\\Movie.cs",
@@ -323,25 +330,24 @@
               "RelativeToolTip": "CinemaProject\\Model\\Movie.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:32:33.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Model\\User.cs",
               "RelativeDocumentMoniker": "CinemaProject\\Model\\User.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Model\\User.cs",
               "RelativeToolTip": "CinemaProject\\Model\\User.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T16:32:33.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "MovieDAO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Controller\\MovieDAO.cs",
               "RelativeDocumentMoniker": "CinemaProject\\Controller\\MovieDAO.cs",
@@ -349,49 +355,46 @@
               "RelativeToolTip": "CinemaProject\\Controller\\MovieDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:32:33.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
               "Title": "StaffDAO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Controller\\StaffDAO.cs",
               "RelativeDocumentMoniker": "CinemaProject\\Controller\\StaffDAO.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\Controller\\StaffDAO.cs",
               "RelativeToolTip": "CinemaProject\\Controller\\StaffDAO.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwv2EAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T16:32:33.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "uc_editMovie.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_editMovie.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\uc_editMovie.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_editMovie.cs [Design]",
               "RelativeToolTip": "CinemaProject\\View\\uc_editMovie.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.636Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-08T16:32:33.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "uc_dashBoard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_dashBoard.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\uc_dashBoard.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_dashBoard.cs [Design]",
               "RelativeToolTip": "CinemaProject\\View\\uc_dashBoard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.637Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-08T16:32:33.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "uc_product.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_product.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\uc_product.cs",
@@ -399,12 +402,11 @@
               "RelativeToolTip": "CinemaProject\\View\\uc_product.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAvwDQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:32:33.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "fGuestHomePage.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fGuestHomePage.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fGuestHomePage.cs",
@@ -412,61 +414,57 @@
               "RelativeToolTip": "CinemaProject\\View\\fGuestHomePage.cs",
               "ViewState": "AgIAABYAAAAAAAAAAADgvywAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:32:33.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "fSignUp.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fSignUp.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fSignUp.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fSignUp.cs [Design]",
               "RelativeToolTip": "CinemaProject\\View\\fSignUp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.64Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-08T16:32:33.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "fLogin.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fLogin.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fLogin.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fLogin.cs",
               "RelativeToolTip": "CinemaProject\\View\\fLogin.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwCkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T16:32:33.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "uc_editGuest.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_editGuest.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\uc_editGuest.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_editGuest.cs [Design]",
               "RelativeToolTip": "CinemaProject\\View\\uc_editGuest.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.643Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-08T16:32:33.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "uc_addStaff.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_addStaff.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\uc_addStaff.cs",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\uc_addStaff.cs [Design]",
               "RelativeToolTip": "CinemaProject\\View\\uc_addStaff.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.644Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-08T16:32:33.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\packages.config",
               "RelativeDocumentMoniker": "CinemaProject\\packages.config",
@@ -474,24 +472,22 @@
               "RelativeToolTip": "CinemaProject\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-08T16:32:33.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:32:33.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "fGuestHomePage.resx",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fGuestHomePage.resx",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fGuestHomePage.resx",
               "ToolTip": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fGuestHomePage.resx",
               "RelativeToolTip": "CinemaProject\\View\\fGuestHomePage.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-08T16:32:33.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:32:33.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "fGuestHomePage.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Pictures\\CinemaProject\\CinemaProject\\CinemaProject\\View\\fGuestHomePage.Designer.cs",
               "RelativeDocumentMoniker": "CinemaProject\\View\\fGuestHomePage.Designer.cs",
@@ -499,8 +495,7 @@
               "RelativeToolTip": "CinemaProject\\View\\fGuestHomePage.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:32:33.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T16:32:33.648Z"
             }
           ]
         }

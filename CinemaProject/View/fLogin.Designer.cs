@@ -38,6 +38,7 @@
             this.btnSignUp = new Guna.UI2.WinForms.Guna2Button();
             this.linkForgot = new System.Windows.Forms.LinkLabel();
             this.checkboxShowPW = new Guna.UI2.WinForms.Guna2CheckBox();
+            this.CheckboxStaff = new Guna.UI2.WinForms.Guna2CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -86,7 +87,7 @@
             this.txtEmail.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtEmail.IconLeft = ((System.Drawing.Image)(resources.GetObject("txtEmail.IconLeft")));
             this.txtEmail.IconLeftSize = new System.Drawing.Size(25, 25);
-            this.txtEmail.Location = new System.Drawing.Point(398, 106);
+            this.txtEmail.Location = new System.Drawing.Point(388, 107);
             this.txtEmail.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.PasswordChar = '\0';
@@ -109,7 +110,7 @@
             this.txtPw.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtPw.IconLeft = ((System.Drawing.Image)(resources.GetObject("txtPw.IconLeft")));
             this.txtPw.IconLeftSize = new System.Drawing.Size(25, 25);
-            this.txtPw.Location = new System.Drawing.Point(398, 186);
+            this.txtPw.Location = new System.Drawing.Point(388, 195);
             this.txtPw.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtPw.Name = "txtPw";
             this.txtPw.PasswordChar = '\0';
@@ -185,7 +186,7 @@
             this.checkboxShowPW.CheckedState.BorderThickness = 0;
             this.checkboxShowPW.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.checkboxShowPW.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.checkboxShowPW.Location = new System.Drawing.Point(409, 262);
+            this.checkboxShowPW.Location = new System.Drawing.Point(398, 288);
             this.checkboxShowPW.Name = "checkboxShowPW";
             this.checkboxShowPW.Size = new System.Drawing.Size(124, 20);
             this.checkboxShowPW.TabIndex = 9;
@@ -196,12 +197,32 @@
             this.checkboxShowPW.UncheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
             this.checkboxShowPW.CheckedChanged += new System.EventHandler(this.checkboxShowPW_CheckedChanged);
             // 
-            // uc_login
+            // CheckboxStaff
+            // 
+            this.CheckboxStaff.AutoSize = true;
+            this.CheckboxStaff.CheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.CheckboxStaff.CheckedState.BorderRadius = 0;
+            this.CheckboxStaff.CheckedState.BorderThickness = 0;
+            this.CheckboxStaff.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.CheckboxStaff.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.CheckboxStaff.Location = new System.Drawing.Point(398, 262);
+            this.CheckboxStaff.Name = "CheckboxStaff";
+            this.CheckboxStaff.Size = new System.Drawing.Size(55, 20);
+            this.CheckboxStaff.TabIndex = 10;
+            this.CheckboxStaff.Text = "Staff";
+            this.CheckboxStaff.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
+            this.CheckboxStaff.UncheckedState.BorderRadius = 0;
+            this.CheckboxStaff.UncheckedState.BorderThickness = 0;
+            this.CheckboxStaff.UncheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
+            this.CheckboxStaff.CheckedChanged += new System.EventHandler(this.guna2CheckBox1_CheckedChanged);
+            // 
+            // fLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.CheckboxStaff);
             this.Controls.Add(this.checkboxShowPW);
             this.Controls.Add(this.linkForgot);
             this.Controls.Add(this.btnSignUp);
@@ -212,7 +233,7 @@
             this.Controls.Add(this.guna2PictureBox1);
             this.Controls.Add(this.guna2CircleButton1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "uc_login";
+            this.Name = "fLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "uc_login";
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
@@ -232,6 +253,7 @@
         private Guna.UI2.WinForms.Guna2Button btnSignUp;
         private System.Windows.Forms.LinkLabel linkForgot;
         private Guna.UI2.WinForms.Guna2CheckBox checkboxShowPW;
+        private Guna.UI2.WinForms.Guna2CheckBox CheckboxStaff;
     }
 }
 

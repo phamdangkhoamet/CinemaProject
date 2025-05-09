@@ -44,18 +44,33 @@ namespace CinemaProject
             string email = txtEmail.Text;
             string password = txtPw.Text;
             //su dung userDAO de kiem tra dang nhap
-            UserDAO userDAO = new UserDAO();
-            if (userDAO.Login(email, password))
+            if(CheckboxStaff.Checked)
             {
-                //neu dang nhap thanh cong thi mo fAdminHomePage
-                fAdminHomePage loadf = new fAdminHomePage();
-                loadf.Show();
-                this.Hide();
+                StaffDAO staffDAO = new StaffDAO();
+                if (staffDAO.LoginasStaff(email, password))
+                {
+                    fAdminHomePage loadf = new fAdminHomePage();
+                    loadf.Show();
+                    this.Hide();
+                }
+                else
+                {
+                    MessageBox.Show("Sai tài khoản hoặc mật khẩu");
+                }
             }
             else
             {
-                //neu dang nhap khong thanh cong thi hien thi thong bao
-                MessageBox.Show("Email hoặc mật khẩu không đúng!");
+                UserDAO userDAO = new UserDAO();
+                if (userDAO.Login(email, password))
+                {
+                    fGuestHomePage loadf = new fGuestHomePage();
+                    loadf.Show();
+                    this.Hide();
+                }
+                else
+                {
+                    MessageBox.Show("Sai tài khoản hoặc mật khẩu");
+                }
             }
         }
 
@@ -79,6 +94,11 @@ namespace CinemaProject
             fSignUp loadf = new fSignUp();
             loadf.Show();
             this.Hide();
+        }
+
+        private void guna2CheckBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

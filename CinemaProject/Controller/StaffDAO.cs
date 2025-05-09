@@ -87,5 +87,29 @@ namespace CinemaProject.Controller
                 return rows > 0;
             }
         }
+        public bool LoginasStaff(string email, string password)
+        {
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                string query = "SELECT * FROM Staff WHERE Email = @Email AND Password = @Password";
+                SqlCommand cmd = new SqlCommand(query, conn);
+                cmd.Parameters.AddWithValue("@Email", email);
+                cmd.Parameters.AddWithValue("@Password", password);
+
+                conn.Open();
+                SqlDataReader reader = cmd.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    // Login successful
+                    return true;
+                }
+                else
+                {
+                    // Login failed
+                    return false;
+                }
+                conn.Close();
+            }
+        }
     }
 }
