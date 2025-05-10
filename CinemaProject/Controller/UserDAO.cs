@@ -25,11 +25,11 @@ namespace CinemaProject.Controller
                         reader["Gmail"].ToString(),
                         reader["Password"].ToString(),
                         reader["Name"].ToString(),
-                        reader["Phone"].ToString(),
-                        Convert.ToDateTime(reader["DateOfBirth"])
+                        reader["PhoneNumber"].ToString()
                     );
                     users.Add(user);
                 }
+
             }
             return users;
         }
@@ -37,13 +37,13 @@ namespace CinemaProject.Controller
         {
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
-                string query = "INSERT INTO Users (Gmail, Password, Name, Phone, DateOfBirth) VALUES (@Gmail, @Password, @Name, @Phone, @DateOfBirth)";
+                string query = "INSERT INTO Users (Gmail, Password, Name, PhoneNumber) VALUES (@Gmail, @Password, @Name, @PhoneNumber)";
                 SqlCommand cmd = new SqlCommand(query, conn);
                 cmd.Parameters.AddWithValue("@Gmail", user.Gmail);
                 cmd.Parameters.AddWithValue("@Password", user.Password);
                 cmd.Parameters.AddWithValue("@Name", user.Name);
-                cmd.Parameters.AddWithValue("@Phone", user.Phone);
-                cmd.Parameters.AddWithValue("@DateOfBirth", user.DateOfBirth);
+                cmd.Parameters.AddWithValue("@PhoneNumber", user.PhoneNumber);
+               
                 conn.Open();
                 cmd.ExecuteNonQuery();
             }
@@ -52,13 +52,12 @@ namespace CinemaProject.Controller
         {
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
-                string query = "UPDATE Users SET Password = @Password, Name = @Name, Phone = @Phone, DateOfBirth = @DateOfBirth WHERE Gmail = @Gmail";
+                string query = "UPDATE Users SET Password = @Password, Name = @Name, Phone = @Phone, WHERE Gmail = @Gmail";
                 SqlCommand cmd = new SqlCommand(query, conn);
                 cmd.Parameters.AddWithValue("@Gmail", gmail);
                 cmd.Parameters.AddWithValue("@Password", updatedUser.Password);
                 cmd.Parameters.AddWithValue("@Name", updatedUser.Name);
-                cmd.Parameters.AddWithValue("@Phone", updatedUser.Phone);
-                cmd.Parameters.AddWithValue("@DateOfBirth", updatedUser.DateOfBirth);
+                cmd.Parameters.AddWithValue("@PhoneNumber", updatedUser.PhoneNumber);
                 conn.Open();
                 cmd.ExecuteNonQuery();
             }

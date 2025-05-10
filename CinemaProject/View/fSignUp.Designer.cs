@@ -37,8 +37,8 @@
             this.txtEmail_SignUp = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2CircleButton1 = new Guna.UI2.WinForms.Guna2CircleButton();
             this.label2 = new System.Windows.Forms.Label();
-            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
+            this.nametextbox = new Guna.UI2.WinForms.Guna2TextBox();
+            this.phonenumtb = new Guna.UI2.WinForms.Guna2TextBox();
             this.SuspendLayout();
             // 
             // checkboxShowPW_SU
@@ -49,7 +49,7 @@
             this.checkboxShowPW_SU.CheckedState.BorderThickness = 0;
             this.checkboxShowPW_SU.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.checkboxShowPW_SU.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.checkboxShowPW_SU.Location = new System.Drawing.Point(394, 263);
+            this.checkboxShowPW_SU.Location = new System.Drawing.Point(559, 162);
             this.checkboxShowPW_SU.Name = "checkboxShowPW_SU";
             this.checkboxShowPW_SU.Size = new System.Drawing.Size(124, 20);
             this.checkboxShowPW_SU.TabIndex = 18;
@@ -70,7 +70,7 @@
             this.btnSignUp_fSignUp.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(217)))), ((int)(((byte)(68)))), ((int)(((byte)(72)))));
             this.btnSignUp_fSignUp.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSignUp_fSignUp.ForeColor = System.Drawing.Color.White;
-            this.btnSignUp_fSignUp.Location = new System.Drawing.Point(513, 294);
+            this.btnSignUp_fSignUp.Location = new System.Drawing.Point(193, 388);
             this.btnSignUp_fSignUp.Name = "btnSignUp_fSignUp";
             this.btnSignUp_fSignUp.Size = new System.Drawing.Size(107, 52);
             this.btnSignUp_fSignUp.TabIndex = 16;
@@ -87,7 +87,7 @@
             this.btnLogin_fSignUp.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(217)))), ((int)(((byte)(68)))), ((int)(((byte)(72)))));
             this.btnLogin_fSignUp.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogin_fSignUp.ForeColor = System.Drawing.Color.White;
-            this.btnLogin_fSignUp.Location = new System.Drawing.Point(513, 405);
+            this.btnLogin_fSignUp.Location = new System.Drawing.Point(446, 388);
             this.btnLogin_fSignUp.Name = "btnLogin_fSignUp";
             this.btnLogin_fSignUp.Size = new System.Drawing.Size(107, 52);
             this.btnLogin_fSignUp.TabIndex = 15;
@@ -99,7 +99,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Comic Sans MS", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label1.Location = new System.Drawing.Point(498, 31);
+            this.label1.Location = new System.Drawing.Point(290, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(152, 51);
             this.label1.TabIndex = 14;
@@ -119,7 +119,7 @@
             this.txtPW_SignUp.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtPW_SignUp.IconLeft = ((System.Drawing.Image)(resources.GetObject("txtPW_SignUp.IconLeft")));
             this.txtPW_SignUp.IconLeftSize = new System.Drawing.Size(25, 25);
-            this.txtPW_SignUp.Location = new System.Drawing.Point(383, 187);
+            this.txtPW_SignUp.Location = new System.Drawing.Point(193, 141);
             this.txtPW_SignUp.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtPW_SignUp.Name = "txtPW_SignUp";
             this.txtPW_SignUp.PasswordChar = '\0';
@@ -143,7 +143,7 @@
             this.txtEmail_SignUp.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtEmail_SignUp.IconLeft = ((System.Drawing.Image)(resources.GetObject("txtEmail_SignUp.IconLeft")));
             this.txtEmail_SignUp.IconLeftSize = new System.Drawing.Size(25, 25);
-            this.txtEmail_SignUp.Location = new System.Drawing.Point(383, 105);
+            this.txtEmail_SignUp.Location = new System.Drawing.Point(193, 64);
             this.txtEmail_SignUp.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtEmail_SignUp.Name = "txtEmail_SignUp";
             this.txtEmail_SignUp.PasswordChar = '\0';
@@ -176,22 +176,57 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label2.Location = new System.Drawing.Point(465, 368);
+            this.label2.Location = new System.Drawing.Point(296, 459);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(186, 16);
             this.label2.TabIndex = 19;
             this.label2.Text = "Already have an account?";
             // 
-            // guna2PictureBox1
+            // nametextbox
             // 
-            this.guna2PictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox1.Image")));
-            this.guna2PictureBox1.ImageRotate = 0F;
-            this.guna2PictureBox1.Location = new System.Drawing.Point(28, 19);
-            this.guna2PictureBox1.Name = "guna2PictureBox1";
-            this.guna2PictureBox1.Size = new System.Drawing.Size(290, 424);
-            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2PictureBox1.TabIndex = 11;
-            this.guna2PictureBox1.TabStop = false;
+            this.nametextbox.BorderRadius = 18;
+            this.nametextbox.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.nametextbox.DefaultText = "";
+            this.nametextbox.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.nametextbox.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.nametextbox.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.nametextbox.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.nametextbox.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.nametextbox.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.nametextbox.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.nametextbox.IconLeft = ((System.Drawing.Image)(resources.GetObject("nametextbox.IconLeft")));
+            this.nametextbox.IconLeftSize = new System.Drawing.Size(25, 25);
+            this.nametextbox.Location = new System.Drawing.Point(193, 209);
+            this.nametextbox.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.nametextbox.Name = "nametextbox";
+            this.nametextbox.PasswordChar = '\0';
+            this.nametextbox.PlaceholderText = "Enter name";
+            this.nametextbox.SelectedText = "";
+            this.nametextbox.Size = new System.Drawing.Size(360, 60);
+            this.nametextbox.TabIndex = 20;
+            // 
+            // phonenumtb
+            // 
+            this.phonenumtb.BorderRadius = 18;
+            this.phonenumtb.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.phonenumtb.DefaultText = "";
+            this.phonenumtb.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.phonenumtb.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.phonenumtb.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.phonenumtb.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.phonenumtb.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.phonenumtb.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.phonenumtb.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.phonenumtb.IconLeft = ((System.Drawing.Image)(resources.GetObject("phonenumtb.IconLeft")));
+            this.phonenumtb.IconLeftSize = new System.Drawing.Size(25, 25);
+            this.phonenumtb.Location = new System.Drawing.Point(193, 287);
+            this.phonenumtb.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.phonenumtb.Name = "phonenumtb";
+            this.phonenumtb.PasswordChar = '\0';
+            this.phonenumtb.PlaceholderText = "Enter Phone num";
+            this.phonenumtb.SelectedText = "";
+            this.phonenumtb.Size = new System.Drawing.Size(360, 60);
+            this.phonenumtb.TabIndex = 21;
             // 
             // fSignUp
             // 
@@ -199,6 +234,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(800, 484);
+            this.Controls.Add(this.phonenumtb);
+            this.Controls.Add(this.nametextbox);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.checkboxShowPW_SU);
             this.Controls.Add(this.btnSignUp_fSignUp);
@@ -206,13 +243,11 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtPW_SignUp);
             this.Controls.Add(this.txtEmail_SignUp);
-            this.Controls.Add(this.guna2PictureBox1);
             this.Controls.Add(this.guna2CircleButton1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "fSignUp";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "uc_signUp";
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -228,6 +263,7 @@
         private Guna.UI2.WinForms.Guna2TextBox txtEmail_SignUp;
         private Guna.UI2.WinForms.Guna2CircleButton guna2CircleButton1;
         private System.Windows.Forms.Label label2;
-        private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
+        private Guna.UI2.WinForms.Guna2TextBox nametextbox;
+        private Guna.UI2.WinForms.Guna2TextBox phonenumtb;
     }
 }

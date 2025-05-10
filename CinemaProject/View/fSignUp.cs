@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CinemaProject.Controller;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -36,7 +37,18 @@ namespace CinemaProject.View
 
         private void btnSignUp_fSignUp_Click(object sender, EventArgs e)
         {
-            
+            string gmail = txtEmail_SignUp.Text;
+            string password = txtPW_SignUp.Text;
+            string name = nametextbox.Text;
+            string phone = phonenumtb.Text;
+            UserDAO userDAO = new UserDAO();
+            userDAO.AddUser(new Model.User(gmail, password, name, phone));
+            MessageBox.Show("Đăng ký thành công");
+            fLogin loadF = new fLogin();
+            this.Hide();
+            loadF.Show();
+
+
         }
 
         private void checkboxShowPW_SU_CheckedChanged(object sender, EventArgs e)

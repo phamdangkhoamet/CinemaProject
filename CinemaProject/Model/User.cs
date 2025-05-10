@@ -11,16 +11,16 @@ namespace CinemaProject.Model
         public string Gmail { get; set; }
         public string Password { get; set; }
         public string Name { get; set; }
-        public string Phone { get; set; }
-        public DateTime DateOfBirth { get; set; }
+        public string PhoneNumber { get; set; }
+      
 
-        public User(string email, string password, string name, string phone, DateTime dateOfBirth)
+        public User(string email, string password, string name, string phone)
         {
             Gmail = email;
             Password = password;
             Name = name;
-            Phone = phone;
-            DateOfBirth = dateOfBirth;
+            PhoneNumber = phone;
+          
         }
 
     }
