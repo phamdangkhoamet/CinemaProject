@@ -1,4 +1,5 @@
 ﻿using CinemaProject.Controller;
+using CinemaProject.Model;
 using CinemaProject.View;
 using System;
 using System.Collections.Generic;
@@ -49,7 +50,9 @@ namespace CinemaProject
                 StaffDAO staffDAO = new StaffDAO();
                 if (staffDAO.LoginasStaff(email, password))
                 {
+                    Session.LoggedInUserEmail = email;
                     fAdminHomePage loadf = new fAdminHomePage();
+                     // Lưu email sau khi đăng nhập
                     loadf.Show();
                     this.Hide();
                 }
@@ -63,6 +66,7 @@ namespace CinemaProject
                 UserDAO userDAO = new UserDAO();
                 if (userDAO.Login(email, password))
                 {
+                    Session.LoggedInUserEmail = email;
                     fGuestHomePage loadf = new fGuestHomePage();
                     loadf.Show();
                     this.Hide();

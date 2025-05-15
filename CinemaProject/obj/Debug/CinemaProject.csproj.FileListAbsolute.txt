@@ -40,3 +40,5 @@ C:\Users\Admin\Pictures\CinemaProject\CinemaProject\CinemaProject\obj\Debug\Cine
 C:\Users\Admin\Pictures\CinemaProject\CinemaProject\CinemaProject\obj\Debug\CinemaPr.7A5619D7.Up2Date
 C:\Users\Admin\Pictures\CinemaProject\CinemaProject\CinemaProject\obj\Debug\CinemaProject.exe
 C:\Users\Admin\Pictures\CinemaProject\CinemaProject\CinemaProject\obj\Debug\CinemaProject.pdb
+C:\Users\Admin\Pictures\CinemaProject\CinemaProject\CinemaProject\obj\Debug\CinemaProject.View.fUserInfo.resources
+C:\Users\Admin\Pictures\CinemaProject\CinemaProject\CinemaProject\obj\Debug\CinemaProject.View.fChangeInfo.resources

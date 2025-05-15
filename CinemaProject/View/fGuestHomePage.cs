@@ -46,5 +46,24 @@ namespace CinemaProject.View
                 flowLayoutPanel1.Controls.Add(product);
             }
         }
+
+        private void guna2PictureBox1_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine($"Email hiện tại khi nhấp avatar: {Session.LoggedInUserEmail}");
+            if (string.IsNullOrEmpty(Session.LoggedInUserEmail))
+            {
+                MessageBox.Show("Vui lòng đăng nhập trước.");
+                fLogin loginForm = new fLogin();
+                loginForm.Show();
+                this.Hide();
+            }
+            else
+            {
+                fUserInfo fUserInfo = new fUserInfo();
+                fUserInfo.Show();
+                this.Hide();
+            }
+
+        }
     }
 }

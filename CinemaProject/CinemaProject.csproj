@@ -56,6 +56,7 @@
     <Compile Include="Controller\MovieDAO.cs" />
     <Compile Include="Controller\StaffDAO.cs" />
     <Compile Include="Model\Movie.cs" />
+    <Compile Include="Model\Session.cs" />
     <Compile Include="Model\Staff.cs" />
     <Compile Include="Model\User.cs" />
     <Compile Include="Controller\UserDAO.cs" />
@@ -64,6 +65,12 @@
     </Compile>
     <Compile Include="View\fAdminHomePage.Designer.cs">
       <DependentUpon>fAdminHomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\fChangeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\fChangeInfo.Designer.cs">
+      <DependentUpon>fChangeInfo.cs</DependentUpon>
     </Compile>
     <Compile Include="View\fGuestHomePage.cs">
       <SubType>Form</SubType>
@@ -90,6 +97,12 @@
     </Compile>
     <Compile Include="View\fSignUp.Designer.cs">
       <DependentUpon>fSignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\fUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\fUserInfo.Designer.cs">
+      <DependentUpon>fUserInfo.cs</DependentUpon>
     </Compile>
     <Compile Include="View\uc_addStaff.cs">
       <SubType>UserControl</SubType>
@@ -124,6 +137,9 @@
     <EmbeddedResource Include="View\fAdminHomePage.resx">
       <DependentUpon>fAdminHomePage.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="View\fChangeInfo.resx">
+      <DependentUpon>fChangeInfo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\fGuestHomePage.resx">
       <DependentUpon>fGuestHomePage.cs</DependentUpon>
     </EmbeddedResource>
@@ -145,6 +161,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\fSignUp.resx">
       <DependentUpon>fSignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\fUserInfo.resx">
+      <DependentUpon>fUserInfo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\uc_addStaff.resx">
       <DependentUpon>uc_addStaff.cs</DependentUpon>
